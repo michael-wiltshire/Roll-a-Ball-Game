@@ -1,7 +1,5 @@
 # Roll-a-Ball Game
 
-Roll-a-Ball Game
-
 This is a 3D game where the player controls a sphere to navigate through a play forming course, collecting pickups and avoiding obstacles to get to the finish line without falling in lava. The game was created using Unity during my time in university.
 
 How to Play
