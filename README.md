@@ -1,6 +1,6 @@
 # Roll-a-Ball Game
 
-This is a 3D game where the player controls a sphere to navigate through a play forming course, collecting pickups and avoiding obstacles to get to the finish line without falling in lava. The game was created using Unity during my time in university.
+This is a 3D game where the player controls a sphere to navigate through a play forming course, avoiding obstacles to get to the finish line without falling in lava. The game was created using Unity during my time in university.
 
 How to Play
 To play the game, simply run the executable file included in the repository. Use the arrow keys or the WASD keys to control the sphere and reach the finish line. Be careful not to fall off the edge of the course or land in the lava, or you will have to start over!
